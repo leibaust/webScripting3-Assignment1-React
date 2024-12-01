@@ -38,7 +38,7 @@ const products = [
     setAddedItems((prevItems) => [...prevItems, selectedProduct]);
   };
 
-// UI
+// UI - "frontend"
 
   return (
     <>
